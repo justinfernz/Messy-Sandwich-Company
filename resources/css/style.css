@@ -345,7 +345,7 @@ figcaption {
     }
 
     #splash {
-        background-image: url('../images/splash.jpg');
+        background-image: url('../media/splash.jpg');
         background-size: contain;
         background-repeat: no-repeat;
         background-position: bottom, center;
